@@ -40,10 +40,6 @@ crowd_monitoring/
 
 Clone the repository:
 
-git clone https://github.com/art09-git/crowd_monitoring.git
-cd crowd_monitoring
-
-
 Install required Python libraries:
 
 pip install numpy scipy matplotlib opencv-python torch h5py
